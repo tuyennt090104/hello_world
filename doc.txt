@@ -9,7 +9,6 @@ def
 =======
 6
 >>>>>>> tmp
-7
-8
-9
+cplusplus
+java
 
